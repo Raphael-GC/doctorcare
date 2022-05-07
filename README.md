@@ -1,8 +1,12 @@
 <h1 align="center">
-  <img alt="DoctorCare Logo" title="DoctorCare Logo" src="./assets/Logo.svg" width="400px" />
+  <img 
+  alt="DoctorCare Logo" 
+  title="DoctorCare Logo" 
+  src="./assets/Logo.svg" 
+  width="400px" />
 </h1>
 
-<h4 align="center"><progress alt="Projeto 30% concluído" value="30" max="100"></progress></h4>
+<h4 align="center">60%<progress alt="Projeto 60% concluído" value="60" max="100"></progress></h4>
 
 <h4 align="center">Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.</h4>
 
