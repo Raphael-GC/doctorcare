@@ -43,8 +43,8 @@
    <ol> - Aprendi sobre a unidade de medida rem e como utilizá-la corretamente. Assim como conheci novas propriedades do CSS: transform, object-position, gap, z-index, overflow. Usei formulas matemáticas como parâmetro para informar a margem, por exemplo. Conceito de pesos (especificidade do seletor) e childs no CSS. Conheci o sistema de cor hsl.
 
 <a>Dia 3</a>
-- ...
-   <ol> - Aprendi sobre
+- Criação das seções restantes no html, ajustes na sobreposição de elementos e rolagem da página.
+   <ol> - Aprendi sobre o conceito de ancoras, utilizado no menu. Assim como sobre os efeitos para rolagem como o scroll-behavior(CSS) e o scrollReveal(HTML). Também entendi sobre a importância semântica da tag section.
 
 <a>Dia 4</a>
 - ...
