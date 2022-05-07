@@ -2,12 +2,9 @@
   <img alt="DoctorCare Logo" title="DoctorCare Logo" src="./assets/Logo.svg" width="400px" />
 </h1>
 
-<h4 align="center">
+<h4 align="center"><progress alt="Projeto 30% concluído" value="30" max="100"></progress></h4>
 
-<progress alt="Projeto 30% concluído" value="30" max="100"></progress>
-
-Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.
-</h4>
+<h4 align="center">Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.</h4>
 
 <p align="center">
   <a href="#como-executar-">Como executar</a> •
@@ -43,7 +40,7 @@ Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação res
 
 <a>Dia 2</a>
 - Inclusao de funções (scripts), menu e acessibilidade (aria).
-   <ol> - Aprendi sobre a unidade de medida rem e como utilizá-la corretamente. Assim como conheci novas propriedades do CSS: transform, object-position, gap, z-index, overflow. Usei formulas matemáticas como parâmetro para informar a margem, por exemplo. Conceito de pesos (especificidade do seletor) e childs no CSS. Conheci o sistema de cor hsl. 
+   <ol> - Aprendi sobre a unidade de medida rem e como utilizá-la corretamente. Assim como conheci novas propriedades do CSS: transform, object-position, gap, z-index, overflow. Usei formulas matemáticas como parâmetro para informar a margem, por exemplo. Conceito de pesos (especificidade do seletor) e childs no CSS. Conheci o sistema de cor hsl.
 
 <a>Dia 3</a>
 - ...
