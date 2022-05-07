@@ -1,19 +1,18 @@
 <h1 align="center">
-  
-  ![](https://github.com/Raphael-GC/nlw-origin/blob/main/assets/Logo.svg)
+  <img alt="DoctorCare Logo" title="DoctorCare Logo" src="./assets/Logo.svg" width="400px" />
 </h1>
 
 <h4 align="center">
 
-<progress value=”30” max=”100”></progress>
+<progress alt="Projeto 30% concluído" value="30" max="100"></progress>
 
 Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.
 </h4>
 
 <p align="center">
-  <a href="## Como executar 🚀">Como executar</a> •
-  <a href="## Funcionalidades 💬">Funcionalidades</a> •
-  <a href="## Cronograma ⌚">Cronograma</a>
+  <a href="#como-executar-">Como executar</a> •
+  <a href="#cronograma-">Funcionalidades</a> •
+  <a href="#cronograma-">Cronograma</a>
 </p>
 
 ## Como executar 🚀 
@@ -40,16 +39,28 @@ Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação res
 ## Cronograma ⌚
 <a>Dia 1</a> 
 - Criacao da main page e estilização.
+  <ol> - Aprendi sobre viewBox em SVG, Responsividade (viewport, content e initial-scale) SEO (meta tags).Conceito de Landing page e One page. Conheci o atributo onscroll
 
 <a>Dia 2</a>
 - Inclusao de funções (scripts), menu e acessibilidade (aria).
+   <ol> - Aprendi sobre a unidade de medida rem e como utilizá-la corretamente. Assim como conheci novas propriedades do CSS: transform, object-position, gap, z-index, overflow. Usei formulas matemáticas como parâmetro para informar a margem, por exemplo. Conceito de pesos (especificidade do seletor) e childs no CSS. Conheci o sistema de cor hsl. 
 
 <a>Dia 3</a>
-...
+- ...
+   <ol> - Aprendi sobre
+
+<a>Dia 4</a>
+- ...
+   <ol> - Aprendi sobre
+
+<a>Dia 5</a>
+- ...
+   <ol> - Aprendi sobre
+
 
 ## :pencil: Author
 
-| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1657152000&v=beta&t=atv6BsR8rzwGQKxlbVrsMpFwrBkJ2OF_803kyq91YLM" width="20%"/> | 
+| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1657152000&v=beta&t=atv6BsR8rzwGQKxlbVrsMpFwrBkJ2OF_803kyq91YLM" /> | 
    |:---:|
-   | <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">LinkedIn</a> |   
+   | <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">**LinkedIn**</a> |   
 
