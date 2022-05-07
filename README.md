@@ -1,15 +1,19 @@
-<h1 align="center">   
-  ![](https://github.com/Raphael-GC/nlw-origin/blob/main/assets/Logo.svg) 
-
-  <progress value=”30” max=”100”></progress>
+<h1 align="center">
+  
+  ![](https://github.com/Raphael-GC/nlw-origin/blob/main/assets/Logo.svg)
 </h1>
 
-<h4 align="center">Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.</h4>
+<h4 align="center">
+
+<progress value=”30” max=”100”></progress>
+
+Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.
+</h4>
 
 <p align="center">
-  <a href="# Como executar 🚀">Como executar</a> •
-  <a href="# Funcionalidades 💬">Funcionalidades</a> •
-  <a href="# Cronograma ⌚">Cronograma</a>
+  <a href="## Como executar 🚀">Como executar</a> •
+  <a href="## Funcionalidades 💬">Funcionalidades</a> •
+  <a href="## Cronograma ⌚">Cronograma</a>
 </p>
 
 ## Como executar 🚀 
