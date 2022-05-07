@@ -1,21 +1,18 @@
 <h1 align="center">   
-  Doctor Care
+  ![](https://github.com/Raphael-GC/nlw-origin/blob/main/assets/Logo.svg) 
+
+  <progress value=”30” max=”100”></progress>
 </h1>
-
-<h2 align="center">   
-
-  ![](https://github.com/Raphael-GC/nlw-origin/blob/main/assets/Logo.svg)  
-</h2>
 
 <h4 align="center">Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.</h4>
 
 <p align="center">
-  <a href="# 🚀 Como ">Como executar</a> •
-  <a href="# 💬 Funcionalidades">Funcionalidades</a> •
-  <a href="# ⌚ Cronograma">Cronograma</a>
+  <a href="# Como executar 🚀">Como executar</a> •
+  <a href="# Funcionalidades 💬">Funcionalidades</a> •
+  <a href="# Cronograma ⌚">Cronograma</a>
 </p>
 
-## 🚀 Como executar
+## Como executar 🚀 
 <ul>
   <li> 1. Primeiro, para clonar o projeto via HTTPS utilize: </li>
 
@@ -30,13 +27,13 @@
 `cd nlw-origin`</li>
 </ul>
 
-## 💬 Funcionalidades
+## Funcionalidades 💬
 <ul>
   <li>Agendar consultas</li>
   <li>Informar sobre a clínica</li>
 </ul>
 
-## ⌚ Cronograma
+## Cronograma ⌚
 <a>Dia 1</a> 
 - Criacao da main page e estilização.
 
@@ -48,4 +45,7 @@
 
 ## :pencil: Author
 
-- <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">LinkedIn</a>
+| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1657152000&v=beta&t=atv6BsR8rzwGQKxlbVrsMpFwrBkJ2OF_803kyq91YLM" width="20%"/> | 
+   |:---:|
+   | <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">LinkedIn</a> |   
+
