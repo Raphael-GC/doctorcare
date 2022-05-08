@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#view-">View</a> •
   <a href="#como-executar-">Como executar</a> •
-  <a href="#cronograma-">Funcionalidades</a> •
+  <a href="#funcionalidades-">Funcionalidades</a> •
   <a href="#cronograma-">Cronograma</a>
 </p>
 
