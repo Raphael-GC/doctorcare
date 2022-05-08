@@ -59,8 +59,8 @@ Dia 3
    <ol> - Aprendi sobre o conceito de ancoras, utilizado no menu. Assim como sobre os efeitos para rolagem como o scroll-behavior(CSS) e o scrollReveal(HTML). Também entendi sobre a importância semântica da tag section.
 
 Dia 4
-- ...
-   <ol> - Aprendi sobre
+- Criação da seção Contact, adição do link para o WhatsApp e botão para voltar ao topo da página. Troca da cor dos elementos SVG de forma dinâmica.
+   <ol> - Aprendi sobre importância de adicionar as funções no window.addEventListener para resolver o erro da chamada das funções antes do carregamento total da página. Também vi que no display inline, não se ajusta margin e padding. Conheci novos estilos dessas propriedades: width(fit-content), justify-content(flex-start) e filter(brightness). 
 
 Dia 5
 - ...
