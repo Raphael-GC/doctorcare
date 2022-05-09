@@ -6,7 +6,7 @@
   width="400px" />
 </h1>
 
-<h4 align="center">60% <progress alt="Projeto 60% concluído" value="60" max="100"></progress></h4>
+<h4 align="center"><progress alt="Projeto 100% concluído" value="100" max="100"></progress></h4>
 
 <h4 align="center">Atividade da Rocketseat NLW-Return, trilha Origin, voltada a uma aplicação responsiva para agendamento de consultas médicas.</h4>
 
@@ -18,21 +18,21 @@
 </p>
 
 ## View 👀
-Visualize o projeto aqui nesta <a href="https://codepen.io/Raphael-GC/full/zYrGMBq" target="_blank">**Pen**</a>.
+Visualize o projeto <a href="https://raphael-gc.github.io/doctorcare/" target="_blank">**aqui**</a> ou nesta <a href="https://codepen.io/Raphael-GC/full/zYrGMBq" target="_blank">**Pen**</a>. 
 
 ## Como executar 🚀 
 <ul>
   <li> 1. Primeiro, para clonar o projeto via HTTPS utilize: </li>
 
-`git clone https://github.com/Raphael-GC/nlw-origin`
+`git clone https://github.com/Raphael-GC/doctorcare`
 
   <li> 2. Se você já possuir uma chave SSH cadastrada, clone utilizando: </li>
 
-`git clone git@github.com:Raphael-GC/nlw-origin.git`
+`git clone git@github.com:Raphael-GC/doctorcare.git`
 
   <li> 3. Depois de clonar, acesse a pasta do nosso projeto utilizando: </li>
 
-`cd nlw-origin`
+`cd doctorcare`
 
 <li> 4. Abra o projeto no VScode e instale a extensão Live Server: </li>
 
@@ -63,8 +63,8 @@ Dia 4
    <ol> - Aprendi sobre importância de adicionar as funções no window.addEventListener para resolver o erro da chamada das funções antes do carregamento total da página. Também vi que no display inline, não se ajusta margin e padding. Conheci novos estilos dessas propriedades: width(fit-content), justify-content(flex-start) e filter(brightness). 
 
 Dia 5
-- ...
-   <ol> - Aprendi sobre
+- Criação da versão desktop, script de section selection no topo da versão desktop e overflow: auto para tirar a sobreposição da barra de rolagem em cima do layout.
+   <ol> - Aprendi sobre muito sobre css grid (grid-template-columns, grid-template-areas e grid-area), media queries e os sub-elements do CSS after e before. Entendi como usar de forma inteligente e dinâmica os valores do innerHeight e offsetTop. Assim como as funções querySelector( ) e getAttribute( ).
 
 
 ## :pencil: Author
