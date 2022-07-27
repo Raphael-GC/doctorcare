@@ -69,7 +69,7 @@ Dia 5
 
 ## :pencil: Author
 
-| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1657152000&v=beta&t=atv6BsR8rzwGQKxlbVrsMpFwrBkJ2OF_803kyq91YLM" /> | 
+| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1664409600&v=beta&t=_HmXBTl-m5WLyooZno-hQOuuoMwYtmELFpbOqxlnPL4" /> | 
    |:---:|
    | <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">**LinkedIn**</a> |   
 
