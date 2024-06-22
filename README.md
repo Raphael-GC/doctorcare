@@ -69,7 +69,7 @@ Dia 5
 
 ## :pencil: Author
 
-| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQH1g12fHfozyw/profile-displayphoto-shrink_200_200/0/1610981729767?e=1664409600&v=beta&t=_HmXBTl-m5WLyooZno-hQOuuoMwYtmELFpbOqxlnPL4" /> | 
+| <img src="https://github.com/Raphael-GC.png" width="50px" height="50px" /> | 
    |:---:|
    | <a href="https://www.linkedin.com/in/raphael-gc/" target="_blank">**LinkedIn**</a> |   
 
